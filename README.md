@@ -6,9 +6,9 @@ estou estudando na [Alura]( https://www.alura.com.br/)
 
 eu gosto de andar de moto 
 
-moro no sitio 
+moro no sítio 
 
-quero continar trabalhando no sitio com meu pai
+quero continar trabalhando no sítio com meu pai
 
 
 
